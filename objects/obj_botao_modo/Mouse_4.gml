@@ -1,0 +1,3 @@
+
+
+global.dois_jogadores = !global.dois_jogadores
